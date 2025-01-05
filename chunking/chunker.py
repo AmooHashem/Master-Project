@@ -124,7 +124,7 @@ def export_chunks(chunks: List[Dict],
     """
     # Create output directory if it doesn't exist
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_dir = f"{output_dir}_{pdf_name}_{timestamp}"
+    output_dir = f"./chunking/{output_dir}_{pdf_name}_{timestamp}"
     os.makedirs(output_dir, exist_ok=True)
 
     if output_format == 'markdown':
@@ -164,7 +164,7 @@ def export_chunks(chunks: List[Dict],
 
 # Example usage
 if __name__ == "__main__":
-    pdf_path = "SWEBOK.pdf"
+    pdf_path = "./pdfs/SWEBOK.pdf"
     pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
 
     # Generate chunks
