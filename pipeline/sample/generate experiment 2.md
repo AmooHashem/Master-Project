@@ -25,3 +25,7 @@ Your final output should include a comprehensive description of the experiment, 
 
 
 غلظت گیت‌ش رو کم کنم
+
+گام به گامش کنیم
+توی هر گام یه سناریویی داشته باشیم
+(اصن منظور از سناریو-بیس لرنینگ چیه)
