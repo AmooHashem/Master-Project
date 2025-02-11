@@ -10,8 +10,8 @@ Create a detailed, multi-stage scenario that will serve as the foundation for a 
 1. **Topic(s):**  
    *[Insert the topic or topics here—for example, 'Git Workflow Optimization', 'Dependency Management & Build Tools', or 'Managing Pull Requests with Git'.]*
 
-2. **Extra Teaching Points:**  
-   *[Insert the extra teaching points here. These might include concepts such as Git commands (e.g., fetching, checking out branches, merging, using pull request refs), best practices in handling pull requests and Git aliases, dependency management guidelines (e.g., using dedicated build/dependency tools over Git, splitting large repositories, using submodules as an alternative), and insights on caching in build systems.]*
+2. **Extra Learning Objectives:**  
+   *[Insert the extra learning objectives here. These might include concepts such as Git commands (e.g., fetching, checking out branches, merging, using pull request refs), best practices in handling pull requests and Git aliases, dependency management guidelines (e.g., using dedicated build/dependency tools over Git, splitting large repositories, using submodules as an alternative), and insights on caching in build systems.]*
 
 **Instructions:**  
 - **Meaningful Project:**  
@@ -22,7 +22,7 @@ Create a detailed, multi-stage scenario that will serve as the foundation for a 
   - Introducing new challenges.
   - Gradually increasing in complexity.
   
-- **Incorporate Extra Teaching Points:**  
+- **Incorporate Extra Learning Objectives:**  
   Ensure that each extra teaching point has addressed in at least one of the scenarios.
   
 - **Reflection Opportunity:**  
